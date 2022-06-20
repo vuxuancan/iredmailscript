@@ -62,3 +62,4 @@ There are scripts so far to do the following administrative functions:
 |               | update-storagenode.sh               | Mail is located at /var/vmail/vmail1 by default, this script helps change the database value of 'vmail1' to a new value                     |
 |               | update-storagebasedirectory.sh      | The base directory for mail is located at /var/vmail by default, this script helps change the database value of '/var/vmail' to a new value |
 
+S https://github.com/jeekkd/iRedMail-scripts
